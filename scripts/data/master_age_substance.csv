@@ -1,0 +1,639 @@
+substance,indicator,age_group,percentage,sample_count,total_surveyed
+Alcohol,Lifetime use of alcohol,15-19,70.1,1820,2495.0
+Alcohol,Lifetime use of alcohol,20-24,87.3,3917,4479.0
+Alcohol,Lifetime use of alcohol,25-54,90.3,15335,16817.0
+Alcohol,Lifetime use of alcohol,55+,93.2,11472,12244.0
+Alcohol,Past 12 month use of alcohol,15-19,62.7,1635,2487.0
+Alcohol,Past 12 month use of alcohol,20-24,81.0,3638,4477.0
+Alcohol,Past 12 month use of alcohol,25-54,80.4,13505,16798.0
+Alcohol,Past 12 month use of alcohol,55+,80.4,9747,12232.0
+Alcohol,Past 30 day use of alcohol,15-19,42.6,1155,2483.0
+Alcohol,Past 30 day use of alcohol,20-24,63.4,2865,4474.0
+Alcohol,Past 30 day use of alcohol,25-54,67.8,11286,16792.0
+Alcohol,Past 30 day use of alcohol,55+,69.4,8338,12228.0
+Alcohol,Past 7 day use of alcohol,15-19,21.6,628,2531.0
+Alcohol,Past 7 day use of alcohol,20-24,41.9,1906,4490.0
+Alcohol,Past 7 day use of alcohol,25-54,50.4,8351,16869.0
+Alcohol,Past 7 day use of alcohol,55+,54.9,6516,12269.0
+Alcohol,Age at first alcoholic drink,15-19,13.0,184,1689.0
+Alcohol,Age at first alcoholic drink,15-19,50.0,766,1689.0
+Alcohol,Age at first alcoholic drink,15-19,34.6,683,1689.0
+Alcohol,Age at first alcoholic drink,15-19,2.4,56,1689.0
+Alcohol,Age at first alcoholic drink,20-24,6.1,227,3752.0
+Alcohol,Age at first alcoholic drink,20-24,33.2,1286,3752.0
+Alcohol,Age at first alcoholic drink,20-24,44.6,1675,3752.0
+Alcohol,Age at first alcoholic drink,20-24,16.0,564,3752.0
+Alcohol,Age at first alcoholic drink,25-54,7.6,1163,14977.0
+Alcohol,Age at first alcoholic drink,25-54,33.5,5303,14977.0
+Alcohol,Age at first alcoholic drink,25-54,41.6,6100,14977.0
+Alcohol,Age at first alcoholic drink,25-54,17.3,2411,14977.0
+Alcohol,Age at first alcoholic drink,55+,6.1,725,11190.0
+Alcohol,Age at first alcoholic drink,55+,24.5,2991,11190.0
+Alcohol,Age at first alcoholic drink,55+,48.5,5314,11190.0
+Alcohol,Age at first alcoholic drink,55+,20.9,2160,11190.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,15-19,18.7,290,1560.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,15-19,18.3,284,1560.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,15-19,28.7,447,1560.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,15-19,34.3,539,1560.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,20-24,21.3,735,3575.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,20-24,25.8,913,3575.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,20-24,28.3,1006,3575.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,20-24,24.6,921,3575.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,25-54,29.7,3963,13318.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,25-54,32.3,4235,13318.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,25-54,23.7,3154,13318.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,25-54,14.2,1966,13318.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,55+,41.2,3896,9578.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,55+,33.8,3242,9578.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,55+,17.6,1729,9578.0
+Alcohol,Typical number of drinks when drinking in the past 12 months,55+,7.4,711,9578.0
+Alcohol,Typical number of drinks when drinking in past 30 days,15-19,20.1,228,1124.0
+Alcohol,Typical number of drinks when drinking in past 30 days,15-19,19.8,221,1124.0
+Alcohol,Typical number of drinks when drinking in past 30 days,15-19,27.9,297,1124.0
+Alcohol,Typical number of drinks when drinking in past 30 days,15-19,32.1,378,1124.0
+Alcohol,Typical number of drinks when drinking in past 30 days,20-24,27.9,769,2835.0
+Alcohol,Typical number of drinks when drinking in past 30 days,20-24,25.8,735,2835.0
+Alcohol,Typical number of drinks when drinking in past 30 days,20-24,24.3,685,2835.0
+Alcohol,Typical number of drinks when drinking in past 30 days,20-24,22.0,646,2835.0
+Alcohol,Typical number of drinks when drinking in past 30 days,25-54,32.8,3673,11192.0
+Alcohol,Typical number of drinks when drinking in past 30 days,25-54,31.7,3516,11192.0
+Alcohol,Typical number of drinks when drinking in past 30 days,25-54,21.4,2354,11192.0
+Alcohol,Typical number of drinks when drinking in past 30 days,25-54,14.2,1649,11192.0
+Alcohol,Typical number of drinks when drinking in past 30 days,55+,40.2,3335,8225.0
+Alcohol,Typical number of drinks when drinking in past 30 days,55+,33.2,2735,8225.0
+Alcohol,Typical number of drinks when drinking in past 30 days,55+,18.2,1463,8225.0
+Alcohol,Typical number of drinks when drinking in past 30 days,55+,8.4,692,8225.0
+Alcohol,Number of drinks in past 7 days,15-19,25.6,142,586.0
+Alcohol,Number of drinks in past 7 days,15-19,33.2,194,586.0
+Alcohol,Number of drinks in past 7 days,15-19,41.2,250,586.0
+Alcohol,Number of drinks in past 7 days,20-24,29.7,542,1821.0
+Alcohol,Number of drinks in past 7 days,20-24,34.0,604,1821.0
+Alcohol,Number of drinks in past 7 days,20-24,36.4,675,1821.0
+Alcohol,Number of drinks in past 7 days,25-54,29.2,2387,8146.0
+Alcohol,Number of drinks in past 7 days,25-54,33.4,2723,8146.0
+Alcohol,Number of drinks in past 7 days,25-54,37.4,3036,8146.0
+Alcohol,Number of drinks in past 7 days,55+,30.7,1981,6386.0
+Alcohol,Number of drinks in past 7 days,55+,31.3,2060,6386.0
+Alcohol,Number of drinks in past 7 days,55+,38.0,2345,6386.0
+Alcohol,Binge drinking episode in past 12 months,15-19,45.5,1205,2474.0
+Alcohol,Binge drinking episode in past 12 months,20-24,60.8,2753,4465.0
+Alcohol,Binge drinking episode in past 12 months,25-54,53.9,9031,16766.0
+Alcohol,Binge drinking episode in past 12 months,55+,37.5,4671,12209.0
+Alcohol,Binge drinking episode in past 30 days,15-19,26.9,728,2476.0
+Alcohol,Binge drinking episode in past 30 days,20-24,36.7,1672,4462.0
+Alcohol,Binge drinking episode in past 30 days,25-54,33.5,5600,16758.0
+Alcohol,Binge drinking episode in past 30 days,55+,24.0,2927,12205.0
+Alcohol,Passenger in vehicle driven by someone who had alcohol,15-19,16.8,423,2518.0
+Alcohol,Passenger in vehicle driven by someone who had alcohol,20-24,16.5,762,4473.0
+Alcohol,Passenger in vehicle driven by someone who had alcohol,25-54,10.2,1612,16846.0
+Alcohol,Passenger in vehicle driven by someone who had alcohol,55+,6.2,679,12272.0
+Alcohol,Driving a vehicle after drinking,15-19,2.7,74,2479.0
+Alcohol,Driving a vehicle after drinking,20-24,6.6,313,4441.0
+Alcohol,Driving a vehicle after drinking,25-54,7.2,1114,16714.0
+Alcohol,Driving a vehicle after drinking,55+,5.8,604,12204.0
+Alcohol,Number of times driving after drinking,15-19,69.4,46,69.0
+Alcohol,Number of times driving after drinking,15-19,30.6,23,69.0
+Alcohol,Number of times driving after drinking,20-24,48.5,132,275.0
+Alcohol,Number of times driving after drinking,20-24,51.5,143,275.0
+Alcohol,Number of times driving after drinking,25-54,48.1,456,991.0
+Alcohol,Number of times driving after drinking,25-54,51.9,535,991.0
+Alcohol,Number of times driving after drinking,55+,51.9,267,543.0
+Alcohol,Number of times driving after drinking,55+,48.1,276,543.0
+Alcohol,AUDIT risk level,15-19,80.4,1979,2487.0
+Alcohol,AUDIT risk level,15-19,14.5,368,2487.0
+Alcohol,AUDIT risk level,15-19,5.1,140,2487.0
+Alcohol,AUDIT risk level,20-24,76.7,3431,4477.0
+Alcohol,AUDIT risk level,20-24,17.3,783,4477.0
+Alcohol,AUDIT risk level,20-24,6.0,263,4477.0
+Alcohol,AUDIT risk level,25-54,84.0,14191,16798.0
+Alcohol,AUDIT risk level,25-54,12.0,1940,16798.0
+Alcohol,AUDIT risk level,25-54,4.1,667,16798.0
+Alcohol,AUDIT risk level,55+,89.2,11007,12232.0
+Alcohol,AUDIT risk level,55+,9.0,1003,12232.0
+Alcohol,AUDIT risk level,55+,1.8,222,12232.0
+Alcohol,Frequency of drinking during pregnancy,20-24,87.2,80,90.0
+Alcohol,Frequency of drinking during pregnancy,20-24,8.6,6,90.0
+Alcohol,Frequency of drinking during pregnancy,20-24,4.2,4,90.0
+Alcohol,Frequency of drinking during pregnancy,25-54,86.0,1313,1506.0
+Alcohol,Frequency of drinking during pregnancy,25-54,9.5,133,1506.0
+Alcohol,Frequency of drinking during pregnancy,25-54,4.5,60,1506.0
+Alcohol,Typical number of drinks when drinking during pregnancy,25-54,94.4,176,189.0
+Alcohol,Typical number of drinks when drinking during pregnancy,25-54,5.6,13,189.0
+Cannabis,Lifetime use of cannabis,15-19,8.44,219,2515.0
+Cannabis,Lifetime use of cannabis,15-19,42.34,1105,2515.0
+Cannabis,Lifetime use of cannabis,20-24,7.41,335,4475.0
+Cannabis,Lifetime use of cannabis,20-24,60.56,2700,4475.0
+Cannabis,Lifetime use of cannabis,25-54,8.04,1386,16807.0
+Cannabis,Lifetime use of cannabis,25-54,59.87,10062,16807.0
+Cannabis,Lifetime use of cannabis,55+,12.96,1528,12227.0
+Cannabis,Lifetime use of cannabis,55+,45.28,5807,12227.0
+Cannabis,Past 12 month cannabis use,15-19,43.32,1115,2506.0
+Cannabis,Past 12 month cannabis use,20-24,52.43,2320,4464.0
+Cannabis,Past 12 month cannabis use,25-54,38.47,6369,16787.0
+Cannabis,Past 12 month cannabis use,55+,19.05,2543,12215.0
+Cannabis,Past 30 day cannabis use,15-19,28.04,718,2499.0
+Cannabis,Past 30 day cannabis use,20-24,33.0,1443,4462.0
+Cannabis,Past 30 day cannabis use,25-54,24.13,4012,16772.0
+Cannabis,Past 30 day cannabis use,55+,11.15,1540,12212.0
+Cannabis,Age at first cannabis use,15-19,6.72,69,1262.0
+Cannabis,Age at first cannabis use,15-19,46.72,516,1262.0
+Cannabis,Age at first cannabis use,15-19,43.22,613,1262.0
+Cannabis,Age at first cannabis use,15-19,3.35,64,1262.0
+Cannabis,Age at first cannabis use,20-24,2.61,81,2978.0
+Cannabis,Age at first cannabis use,20-24,21.26,639,2978.0
+Cannabis,Age at first cannabis use,20-24,42.02,1252,2978.0
+Cannabis,Age at first cannabis use,20-24,34.11,1006,2978.0
+Cannabis,Age at first cannabis use,25-54,3.66,416,11250.0
+Cannabis,Age at first cannabis use,25-54,21.97,2397,11250.0
+Cannabis,Age at first cannabis use,25-54,31.89,3505,11250.0
+Cannabis,Age at first cannabis use,25-54,42.48,4932,11250.0
+Cannabis,Age at first cannabis use,55+,1.48,128,7187.0
+Cannabis,Age at first cannabis use,55+,16.43,1195,7187.0
+Cannabis,Age at first cannabis use,55+,33.18,2462,7187.0
+Cannabis,Age at first cannabis use,55+,48.91,3402,7187.0
+Cannabis,Frequency of cannabis use in past 12 months,15-19,19.74,219,1101.0
+Cannabis,Frequency of cannabis use in past 12 months,15-19,7.67,87,1101.0
+Cannabis,Frequency of cannabis use in past 12 months,15-19,9.16,90,1101.0
+Cannabis,Frequency of cannabis use in past 12 months,15-19,11.28,116,1101.0
+Cannabis,Frequency of cannabis use in past 12 months,15-19,12.74,144,1101.0
+Cannabis,Frequency of cannabis use in past 12 months,15-19,7.09,78,1101.0
+Cannabis,Frequency of cannabis use in past 12 months,15-19,32.32,367,1101.0
+Cannabis,Frequency of cannabis use in past 12 months,20-24,19.73,450,2311.0
+Cannabis,Frequency of cannabis use in past 12 months,20-24,7.42,167,2311.0
+Cannabis,Frequency of cannabis use in past 12 months,20-24,9.79,214,2311.0
+Cannabis,Frequency of cannabis use in past 12 months,20-24,9.5,214,2311.0
+Cannabis,Frequency of cannabis use in past 12 months,20-24,10.85,262,2311.0
+Cannabis,Frequency of cannabis use in past 12 months,20-24,6.63,156,2311.0
+Cannabis,Frequency of cannabis use in past 12 months,20-24,36.08,848,2311.0
+Cannabis,Frequency of cannabis use in past 12 months,25-54,18.5,1241,6344.0
+Cannabis,Frequency of cannabis use in past 12 months,25-54,6.69,397,6344.0
+Cannabis,Frequency of cannabis use in past 12 months,25-54,7.39,476,6344.0
+Cannabis,Frequency of cannabis use in past 12 months,25-54,8.84,563,6344.0
+Cannabis,Frequency of cannabis use in past 12 months,25-54,11.18,719,6344.0
+Cannabis,Frequency of cannabis use in past 12 months,25-54,7.19,447,6344.0
+Cannabis,Frequency of cannabis use in past 12 months,25-54,40.19,2501,6344.0
+Cannabis,Frequency of cannabis use in past 12 months,55+,18.5,491,2531.0
+Cannabis,Frequency of cannabis use in past 12 months,55+,5.71,149,2531.0
+Cannabis,Frequency of cannabis use in past 12 months,55+,8.24,210,2531.0
+Cannabis,Frequency of cannabis use in past 12 months,55+,9.41,218,2531.0
+Cannabis,Frequency of cannabis use in past 12 months,55+,11.68,303,2531.0
+Cannabis,Frequency of cannabis use in past 12 months,55+,6.09,159,2531.0
+Cannabis,Frequency of cannabis use in past 12 months,55+,40.37,1001,2531.0
+Cannabis,Number of days using cannabis in past 30 days,15-19,12.08,79,677.0
+Cannabis,Number of days using cannabis in past 30 days,15-19,16.63,138,677.0
+Cannabis,Number of days using cannabis in past 30 days,15-19,23.44,142,677.0
+Cannabis,Number of days using cannabis in past 30 days,15-19,12.38,79,677.0
+Cannabis,Number of days using cannabis in past 30 days,15-19,35.48,239,677.0
+Cannabis,Number of days using cannabis in past 30 days,20-24,13.03,190,1396.0
+Cannabis,Number of days using cannabis in past 30 days,20-24,17.63,251,1396.0
+Cannabis,Number of days using cannabis in past 30 days,20-24,20.05,284,1396.0
+Cannabis,Number of days using cannabis in past 30 days,20-24,14.32,187,1396.0
+Cannabis,Number of days using cannabis in past 30 days,20-24,34.97,484,1396.0
+Cannabis,Number of days using cannabis in past 30 days,25-54,15.73,579,3938.0
+Cannabis,Number of days using cannabis in past 30 days,25-54,16.84,671,3938.0
+Cannabis,Number of days using cannabis in past 30 days,25-54,21.06,816,3938.0
+Cannabis,Number of days using cannabis in past 30 days,25-54,12.63,482,3938.0
+Cannabis,Number of days using cannabis in past 30 days,25-54,33.74,1390,3938.0
+Cannabis,Number of days using cannabis in past 30 days,55+,14.5,200,1506.0
+Cannabis,Number of days using cannabis in past 30 days,55+,14.54,234,1506.0
+Cannabis,Number of days using cannabis in past 30 days,55+,22.66,320,1506.0
+Cannabis,Number of days using cannabis in past 30 days,55+,13.55,198,1506.0
+Cannabis,Number of days using cannabis in past 30 days,55+,34.75,554,1506.0
+Cannabis,Amount of cannabis used compared to previous year,15-19,54.02,560,1087.0
+Cannabis,Amount of cannabis used compared to previous year,15-19,28.34,332,1087.0
+Cannabis,Amount of cannabis used compared to previous year,15-19,17.64,195,1087.0
+Cannabis,Amount of cannabis used compared to previous year,20-24,30.7,700,2290.0
+Cannabis,Amount of cannabis used compared to previous year,20-24,40.01,921,2290.0
+Cannabis,Amount of cannabis used compared to previous year,20-24,29.29,669,2290.0
+Cannabis,Amount of cannabis used compared to previous year,25-54,21.2,1356,6313.0
+Cannabis,Amount of cannabis used compared to previous year,25-54,34.74,2081,6313.0
+Cannabis,Amount of cannabis used compared to previous year,25-54,44.06,2876,6313.0
+Cannabis,Amount of cannabis used compared to previous year,55+,15.21,398,2506.0
+Cannabis,Amount of cannabis used compared to previous year,55+,33.83,777,2506.0
+Cannabis,Amount of cannabis used compared to previous year,55+,50.96,1331,2506.0
+Cannabis,ASSIST risk level,15-19,1.31,39,2492.0
+Cannabis,ASSIST risk level,15-19,20.18,532,2492.0
+Cannabis,ASSIST risk level,15-19,21.6,531,2492.0
+Cannabis,ASSIST risk level,20-24,1.48,56,4442.0
+Cannabis,ASSIST risk level,20-24,26.08,1176,4442.0
+Cannabis,ASSIST risk level,20-24,24.84,1073,4442.0
+Cannabis,ASSIST risk level,25-54,0.26,39,16757.0
+Cannabis,ASSIST risk level,25-54,22.83,3819,16757.0
+Cannabis,ASSIST risk level,25-54,15.44,2507,16757.0
+Cannabis,ASSIST risk level,55+,0.01,1,12210.0
+Cannabis,ASSIST risk level,55+,12.76,1668,12210.0
+Cannabis,ASSIST risk level,55+,6.38,884,12210.0
+Cannabis,Dried flower/leaf use,15-19,73.26,786,1094.0
+Cannabis,Dried flower/leaf use,20-24,74.93,1721,2291.0
+Cannabis,Dried flower/leaf use,25-54,63.58,3835,6312.0
+Cannabis,Dried flower/leaf use,55+,40.94,1056,2520.0
+Cannabis,Hashish/kief use,15-19,30.1,314,1094.0
+Cannabis,Hashish/kief use,20-24,20.06,453,2291.0
+Cannabis,Hashish/kief use,25-54,13.17,820,6312.0
+Cannabis,Hashish/kief use,55+,9.77,250,2521.0
+Cannabis,Cannabis oil for oral use,15-19,13.5,158,1094.0
+Cannabis,Cannabis oil for oral use,20-24,21.02,486,2291.0
+Cannabis,Cannabis oil for oral use,25-54,23.99,1562,6312.0
+Cannabis,Cannabis oil for oral use,55+,34.18,833,2521.0
+Cannabis,Vape pens/cartridges use,15-19,73.89,795,1094.0
+Cannabis,Vape pens/cartridges use,20-24,57.32,1292,2291.0
+Cannabis,Vape pens/cartridges use,25-54,37.22,2368,6312.0
+Cannabis,Vape pens/cartridges use,55+,17.09,464,2521.0
+Cannabis,Concentrate/extracts use,15-19,15.67,180,1094.0
+Cannabis,Concentrate/extracts use,20-24,14.5,335,2291.0
+Cannabis,Concentrate/extracts use,25-54,10.06,634,6312.0
+Cannabis,Concentrate/extracts use,55+,3.75,118,2521.0
+Cannabis,Cannabis edible food product use,15-19,57.01,621,1094.0
+Cannabis,Cannabis edible food product use,20-24,64.19,1431,2291.0
+Cannabis,Cannabis edible food product use,25-54,61.54,3972,6312.0
+Cannabis,Cannabis edible food product use,55+,48.23,1297,2521.0
+Cannabis,Cannabis beverages use,15-19,14.22,160,1094.0
+Cannabis,Cannabis beverages use,20-24,26.13,560,2291.0
+Cannabis,Cannabis beverages use,25-54,23.33,1357,6312.0
+Cannabis,Cannabis beverages use,55+,7.79,185,2521.0
+Cannabis,Topicals use,15-19,7.81,85,1094.0
+Cannabis,Topicals use,20-24,7.86,171,2291.0
+Cannabis,Topicals use,25-54,10.77,733,6312.0
+Cannabis,Topicals use,55+,16.53,391,2521.0
+Cannabis,Cannabis consumption by smoking it,15-19,36.33,912,2492.0
+Cannabis,Cannabis consumption by smoking it,20-24,42.13,1865,4446.0
+Cannabis,Cannabis consumption by smoking it,25-54,25.64,4041,16740.0
+Cannabis,Cannabis consumption by smoking it,55+,8.15,1112,12185.0
+Cannabis,Cannabis consumption by eating it,15-19,23.99,614,2492.0
+Cannabis,Cannabis consumption by eating it,20-24,32.91,1412,4446.0
+Cannabis,Cannabis consumption by eating it,25-54,22.66,3807,16740.0
+Cannabis,Cannabis consumption by eating it,55+,8.48,1206,12185.0
+Cannabis,Cannabis consumption by drinking it,15-19,5.79,160,2492.0
+Cannabis,Cannabis consumption by drinking it,20-24,12.9,530,4446.0
+Cannabis,Cannabis consumption by drinking it,25-54,8.53,1297,16740.0
+Cannabis,Cannabis consumption by drinking it,55+,1.38,173,12185.0
+Cannabis,Cannabis consumption by vaping it,15-19,30.46,758,2492.0
+Cannabis,Cannabis consumption by vaping it,20-24,29.56,1281,4446.0
+Cannabis,Cannabis consumption by vaping it,25-54,14.67,2435,16740.0
+Cannabis,Cannabis consumption by vaping it,55+,3.31,493,12185.0
+Cannabis,Cannabis consumption by using oral oil,15-19,4.49,123,2492.0
+Cannabis,Cannabis consumption by using oral oil,20-24,8.92,398,4446.0
+Cannabis,Cannabis consumption by using oral oil,25-54,7.75,1327,16740.0
+Cannabis,Cannabis consumption by using oral oil,55+,6.03,778,12185.0
+Cannabis,Cannabis consumption by dabbing it,15-19,4.24,125,2492.0
+Cannabis,Cannabis consumption by dabbing it,20-24,4.45,198,4446.0
+Cannabis,Cannabis consumption by dabbing it,25-54,1.71,299,16740.0
+Cannabis,Cannabis consumption by dabbing it,55+,0.19,31,12185.0
+Cannabis,Cannabis consumption by skin application,15-19,2.38,65,2492.0
+Cannabis,Cannabis consumption by skin application,20-24,3.47,143,4446.0
+Cannabis,Cannabis consumption by skin application,25-54,3.61,647,16740.0
+Cannabis,Cannabis consumption by skin application,55+,2.69,337,12185.0
+Cannabis,Cannabis source,15-19,2.81,23,1052.0
+Cannabis,Cannabis source,15-19,0.91,11,1052.0
+Cannabis,Cannabis source,15-19,31.97,406,1052.0
+Cannabis,Cannabis source,15-19,3.54,39,1052.0
+Cannabis,Cannabis source,15-19,4.13,47,1052.0
+Cannabis,Cannabis source,15-19,2.07,17,1052.0
+Cannabis,Cannabis source,15-19,0.76,9,1052.0
+Cannabis,Cannabis source,15-19,14.6,142,1052.0
+Cannabis,Cannabis source,15-19,8.25,71,1052.0
+Cannabis,Cannabis source,15-19,22.93,225,1052.0
+Cannabis,Cannabis source,15-19,1.99,17,1052.0
+Cannabis,Cannabis source,15-19,5.9,43,1052.0
+Cannabis,Cannabis source,15-19,0.16,2,1052.0
+Cannabis,Cannabis source,20-24,2.49,52,2288.0
+Cannabis,Cannabis source,20-24,0.51,13,2288.0
+Cannabis,Cannabis source,20-24,72.6,1652,2288.0
+Cannabis,Cannabis source,20-24,3.07,71,2288.0
+Cannabis,Cannabis source,20-24,2.82,66,2288.0
+Cannabis,Cannabis source,20-24,0.46,10,2288.0
+Cannabis,Cannabis source,20-24,1.36,33,2288.0
+Cannabis,Cannabis source,20-24,5.01,122,2288.0
+Cannabis,Cannabis source,20-24,1.53,33,2288.0
+Cannabis,Cannabis source,20-24,8.99,207,2288.0
+Cannabis,Cannabis source,20-24,0.27,8,2288.0
+Cannabis,Cannabis source,20-24,0.71,16,2288.0
+Cannabis,Cannabis source,20-24,0.18,5,2288.0
+Cannabis,Cannabis source,25-54,4.04,254,6291.0
+Cannabis,Cannabis source,25-54,0.38,29,6291.0
+Cannabis,Cannabis source,25-54,70.86,4450,6291.0
+Cannabis,Cannabis source,25-54,6.49,439,6291.0
+Cannabis,Cannabis source,25-54,2.12,158,6291.0
+Cannabis,Cannabis source,25-54,0.54,28,6291.0
+Cannabis,Cannabis source,25-54,0.98,66,6291.0
+Cannabis,Cannabis source,25-54,4.12,225,6291.0
+Cannabis,Cannabis source,25-54,2.27,158,6291.0
+Cannabis,Cannabis source,25-54,6.93,405,6291.0
+Cannabis,Cannabis source,25-54,0.51,31,6291.0
+Cannabis,Cannabis source,25-54,0.52,31,6291.0
+Cannabis,Cannabis source,25-54,0.24,17,6291.0
+Cannabis,Cannabis source,55+,7.67,176,2505.0
+Cannabis,Cannabis source,55+,1.14,22,2505.0
+Cannabis,Cannabis source,55+,59.67,1538,2505.0
+Cannabis,Cannabis source,55+,10.12,257,2505.0
+Cannabis,Cannabis source,55+,4.2,70,2505.0
+Cannabis,Cannabis source,55+,0.63,15,2505.0
+Cannabis,Cannabis source,55+,0.66,22,2505.0
+Cannabis,Cannabis source,55+,3.2,77,2505.0
+Cannabis,Cannabis source,55+,4.5,96,2505.0
+Cannabis,Cannabis source,55+,6.66,183,2505.0
+Cannabis,Cannabis source,55+,0.57,22,2505.0
+Cannabis,Cannabis source,55+,0.41,14,2505.0
+Cannabis,Cannabis source,55+,0.57,13,2505.0
+Cannabis,"Past 12 month cannabis use, by purpose",15-19,36.22,924,2506.0
+Cannabis,"Past 12 month cannabis use, by purpose",15-19,1.7,50,2506.0
+Cannabis,"Past 12 month cannabis use, by purpose",15-19,5.4,141,2506.0
+Cannabis,"Past 12 month cannabis use, by purpose",20-24,40.87,1829,4464.0
+Cannabis,"Past 12 month cannabis use, by purpose",20-24,1.77,72,4464.0
+Cannabis,"Past 12 month cannabis use, by purpose",20-24,9.78,419,4464.0
+Cannabis,"Past 12 month cannabis use, by purpose",25-54,27.47,4357,16787.0
+Cannabis,"Past 12 month cannabis use, by purpose",25-54,3.48,679,16787.0
+Cannabis,"Past 12 month cannabis use, by purpose",25-54,7.51,1333,16787.0
+Cannabis,"Past 12 month cannabis use, by purpose",55+,8.88,1250,12215.0
+Cannabis,"Past 12 month cannabis use, by purpose",55+,6.36,787,12215.0
+Cannabis,"Past 12 month cannabis use, by purpose",55+,3.81,506,12215.0
+Cannabis,Medical cannabis use - documentation,15-19,2.04,6,177.0
+Cannabis,Medical cannabis use - documentation,15-19,97.96,171,177.0
+Cannabis,Medical cannabis use - documentation,20-24,7.25,35,472.0
+Cannabis,Medical cannabis use - documentation,20-24,92.75,437,472.0
+Cannabis,Medical cannabis use - documentation,25-54,14.75,300,1893.0
+Cannabis,Medical cannabis use - documentation,25-54,85.25,1593,1893.0
+Cannabis,Medical cannabis use - documentation,55+,21.44,267,1199.0
+Cannabis,Medical cannabis use - documentation,55+,78.56,932,1199.0
+Cannabis,Medical cannabis use for problems sleeping or insomnia,15-19,57.4,104,182.0
+Cannabis,Medical cannabis use for problems sleeping or insomnia,20-24,53.87,260,466.0
+Cannabis,Medical cannabis use for problems sleeping or insomnia,25-54,50.38,987,1946.0
+Cannabis,Medical cannabis use for problems sleeping or insomnia,55+,46.04,572,1261.0
+Cannabis,Medical cannabis use for anxiety,15-19,78.08,136,182.0
+Cannabis,Medical cannabis use for anxiety,20-24,68.15,321,466.0
+Cannabis,Medical cannabis use for anxiety,25-54,48.69,897,1946.0
+Cannabis,Medical cannabis use for anxiety,55+,16.81,228,1261.0
+Cannabis,Medical cannabis use for depression,15-19,56.88,104,182.0
+Cannabis,Medical cannabis use for depression,20-24,54.23,257,466.0
+Cannabis,Medical cannabis use for depression,25-54,31.34,578,1946.0
+Cannabis,Medical cannabis use for depression,55+,9.69,149,1261.0
+Cannabis,Medical cannabis use for arthritis,15-19,6.93,13,182.0
+Cannabis,Medical cannabis use for arthritis,20-24,4.98,25,466.0
+Cannabis,Medical cannabis use for arthritis,25-54,13.95,286,1946.0
+Cannabis,Medical cannabis use for arthritis,55+,34.46,444,1261.0
+Cannabis,Medical cannabis use for headaches or migraines,15-19,40.55,64,182.0
+Cannabis,Medical cannabis use for headaches or migraines,20-24,30.17,147,466.0
+Cannabis,Medical cannabis use for headaches or migraines,25-54,21.95,421,1946.0
+Cannabis,Medical cannabis use for headaches or migraines,55+,7.06,100,1261.0
+Cannabis,Medical cannabis use for acute pain,15-19,18.52,36,182.0
+Cannabis,Medical cannabis use for acute pain,20-24,23.13,111,466.0
+Cannabis,Medical cannabis use for acute pain,25-54,21.18,407,1946.0
+Cannabis,Medical cannabis use for acute pain,55+,15.96,199,1261.0
+Cannabis,Medical cannabis use for chronic pain,15-19,24.08,44,182.0
+Cannabis,Medical cannabis use for chronic pain,20-24,29.85,145,466.0
+Cannabis,Medical cannabis use for chronic pain,25-54,32.55,661,1946.0
+Cannabis,Medical cannabis use for chronic pain,55+,34.65,429,1261.0
+Cannabis,Medical cannabis use for post-traumatic stress disorder (PTSD),15-19,36.22,57,182.0
+Cannabis,Medical cannabis use for post-traumatic stress disorder (PTSD),20-24,25.96,125,466.0
+Cannabis,Medical cannabis use for post-traumatic stress disorder (PTSD),25-54,17.2,344,1946.0
+Cannabis,Medical cannabis use for post-traumatic stress disorder (PTSD),55+,6.08,102,1261.0
+Cannabis,Medical cannabis use for gastrointestinal illnesses,15-19,16.33,25,182.0
+Cannabis,Medical cannabis use for gastrointestinal illnesses,20-24,15.62,72,466.0
+Cannabis,Medical cannabis use for gastrointestinal illnesses,25-54,13.68,268,1946.0
+Cannabis,Medical cannabis use for gastrointestinal illnesses,55+,5.75,78,1261.0
+Cannabis,Medical cannabis use for ADHD/ADD,15-19,49.67,89,182.0
+Cannabis,Medical cannabis use for ADHD/ADD,20-24,36.73,179,466.0
+Cannabis,Medical cannabis use for ADHD/ADD,25-54,15.43,292,1946.0
+Cannabis,Medical cannabis use for ADHD/ADD,55+,1.14,24,1261.0
+Cannabis,Medical cannabis use for muscle spasms,15-19,4.51,12,182.0
+Cannabis,Medical cannabis use for muscle spasms,20-24,5.5,29,466.0
+Cannabis,Medical cannabis use for muscle spasms,25-54,10.37,216,1946.0
+Cannabis,Medical cannabis use for muscle spasms,55+,12.55,147,1261.0
+Cannabis,Medical cannabis use for nausea or vomiting,15-19,24.74,45,182.0
+Cannabis,Medical cannabis use for nausea or vomiting,20-24,15.81,71,466.0
+Cannabis,Medical cannabis use for nausea or vomiting,25-54,9.82,195,1946.0
+Cannabis,Medical cannabis use for nausea or vomiting,55+,2.56,27,1261.0
+Cannabis,Medical cannabis use for lack of appetite,15-19,52.64,88,182.0
+Cannabis,Medical cannabis use for lack of appetite,20-24,32.39,149,466.0
+Cannabis,Medical cannabis use for lack of appetite,25-54,11.15,190,1946.0
+Cannabis,Medical cannabis use for lack of appetite,55+,3.31,35,1261.0
+Cannabis,Medical cannabis use for seizures or epilepsy,15-19,0.7,3,182.0
+Cannabis,Medical cannabis use for seizures or epilepsy,20-24,1.69,9,466.0
+Cannabis,Medical cannabis use for seizures or epilepsy,25-54,1.18,25,1946.0
+Cannabis,Medical cannabis use for seizures or epilepsy,55+,0.22,3,1261.0
+Cannabis,Medical cannabis use for diabetes,20-24,0.39,2,466.0
+Cannabis,Medical cannabis use for diabetes,25-54,2.15,39,1946.0
+Cannabis,Medical cannabis use for diabetes,55+,3.14,40,1261.0
+Cannabis,Medical cannabis use for multiple sclerosis,15-19,0.45,3,182.0
+Cannabis,Medical cannabis use for multiple sclerosis,20-24,1.15,5,466.0
+Cannabis,Medical cannabis use for multiple sclerosis,25-54,1.92,43,1946.0
+Cannabis,Medical cannabis use for multiple sclerosis,55+,1.98,28,1261.0
+Cannabis,Medical cannabis use for cancer/tumors,15-19,0.67,2,182.0
+Cannabis,Medical cannabis use for cancer/tumors,25-54,1.15,28,1946.0
+Cannabis,Medical cannabis use for cancer/tumors,55+,2.36,32,1261.0
+Cannabis,Medical cannabis use for opioid withdrawal symptoms,15-19,1.45,3,182.0
+Cannabis,Medical cannabis use for opioid withdrawal symptoms,20-24,0.64,4,466.0
+Cannabis,Medical cannabis use for opioid withdrawal symptoms,25-54,1.21,20,1946.0
+Cannabis,Medical cannabis use for schizophrenia or psychosis,15-19,3.27,9,182.0
+Cannabis,Medical cannabis use for schizophrenia or psychosis,20-24,3.42,16,466.0
+Cannabis,Medical cannabis use for schizophrenia or psychosis,25-54,0.77,10,1946.0
+Cannabis,Medical cannabis use for schizophrenia or psychosis,55+,0.15,2,1261.0
+Cannabis,"Medical cannabis use for bipolar disorder, mania, personality disorder",15-19,20.1,36,182.0
+Cannabis,"Medical cannabis use for bipolar disorder, mania, personality disorder",20-24,15.33,70,466.0
+Cannabis,"Medical cannabis use for bipolar disorder, mania, personality disorder",25-54,4.98,87,1946.0
+Cannabis,"Medical cannabis use for bipolar disorder, mania, personality disorder",55+,0.72,10,1261.0
+Cannabis,Medical cannabis use for PMS/Menstrual cramps/Menopause/Endometriosis,15-19,0.36,1,182.0
+Cannabis,Medical cannabis use for PMS/Menstrual cramps/Menopause/Endometriosis,20-24,2.59,10,466.0
+Cannabis,Medical cannabis use for PMS/Menstrual cramps/Menopause/Endometriosis,25-54,0.93,21,1946.0
+Cannabis,Medical cannabis use for PMS/Menstrual cramps/Menopause/Endometriosis,55+,0.3,4,1261.0
+Cannabis,Passenger in a vehicle driven by someone who used cannabis,15-19,20.48,523,2521.0
+Cannabis,Passenger in a vehicle driven by someone who used cannabis,20-24,19.7,882,4470.0
+Cannabis,Passenger in a vehicle driven by someone who used cannabis,25-54,8.82,1477,16833.0
+Cannabis,Passenger in a vehicle driven by someone who used cannabis,55+,3.09,412,12261.0
+Cannabis,Passenger in a vehicle driven by someone who had alcohol and cannabis,15-19,3.37,86,2520.0
+Cannabis,Passenger in a vehicle driven by someone who had alcohol and cannabis,15-19,4.16,102,2520.0
+Cannabis,Passenger in a vehicle driven by someone who had alcohol and cannabis,20-24,3.16,139,4465.0
+Cannabis,Passenger in a vehicle driven by someone who had alcohol and cannabis,20-24,3.85,171,4465.0
+Cannabis,Passenger in a vehicle driven by someone who had alcohol and cannabis,25-54,1.18,186,16825.0
+Cannabis,Passenger in a vehicle driven by someone who had alcohol and cannabis,25-54,2.09,318,16825.0
+Cannabis,Passenger in a vehicle driven by someone who had alcohol and cannabis,55+,0.44,64,12260.0
+Cannabis,Passenger in a vehicle driven by someone who had alcohol and cannabis,55+,0.69,76,12260.0
+Cannabis,Driving a vehicle after smoking or vapourizing cannabis,15-19,5.95,152,2518.0
+Cannabis,Driving a vehicle after smoking or vapourizing cannabis,20-24,7.35,335,4467.0
+Cannabis,Driving a vehicle after smoking or vapourizing cannabis,25-54,4.84,811,16820.0
+Cannabis,Driving a vehicle after smoking or vapourizing cannabis,55+,1.93,238,12260.0
+Cannabis,Number of times driving after smoking or vapourizing cannabis,15-19,48.14,71,132.0
+Cannabis,Number of times driving after smoking or vapourizing cannabis,15-19,16.88,23,132.0
+Cannabis,Number of times driving after smoking or vapourizing cannabis,20-24,49.08,145,291.0
+Cannabis,Number of times driving after smoking or vapourizing cannabis,20-24,20.37,58,291.0
+Cannabis,Number of times driving after smoking or vapourizing cannabis,25-54,53.73,372,714.0
+Cannabis,Number of times driving after smoking or vapourizing cannabis,25-54,24.38,185,714.0
+Cannabis,Number of times driving after smoking or vapourizing cannabis,55+,43.33,103,218.0
+Cannabis,Number of times driving after smoking or vapourizing cannabis,55+,20.88,49,218.0
+Cannabis,Driving a vehicle after ingesting a cannabis product,15-19,3.3,85,2517.0
+Cannabis,Driving a vehicle after ingesting a cannabis product,20-24,4.13,181,4469.0
+Cannabis,Driving a vehicle after ingesting a cannabis product,25-54,3.07,508,16824.0
+Cannabis,Driving a vehicle after ingesting a cannabis product,55+,1.54,211,12268.0
+Cannabis,Number of times driving after ingesting a cannabis product,15-19,59.43,45,73.0
+Cannabis,Number of times driving after ingesting a cannabis product,15-19,15.97,10,73.0
+Cannabis,Number of times driving after ingesting a cannabis product,20-24,51.67,89,164.0
+Cannabis,Number of times driving after ingesting a cannabis product,20-24,10.79,19,164.0
+Cannabis,Number of times driving after ingesting a cannabis product,25-54,63.08,286,467.0
+Cannabis,Number of times driving after ingesting a cannabis product,25-54,16.28,89,467.0
+Cannabis,Number of times driving after ingesting a cannabis product,55+,67.16,127,197.0
+Cannabis,Number of times driving after ingesting a cannabis product,55+,12.08,33,197.0
+Cannabis,Accident or collision while driving after using cannabis,15-19,0.23,5,2533.0
+Cannabis,Accident or collision while driving after using cannabis,20-24,0.15,6,4493.0
+Cannabis,Accident or collision while driving after using cannabis,25-54,0.06,14,16878.0
+Cannabis,Accident or collision while driving after using cannabis,55+,0.01,3,12276.0
+Cannabis,Cannabis use during pregnancy,20-24,17.02,13,75.0
+Cannabis,Cannabis use during pregnancy,25-54,5.89,60,1098.0
+Cannabis,Cannabis use while breastfeeding,20-24,15.42,9,62.0
+Cannabis,Cannabis use while breastfeeding,25-54,7.17,71,984.0
+Opioids,Lifetime use of any pharmaceutical opioids,15-19,14.17,361,2512.0
+Opioids,Lifetime use of any pharmaceutical opioids,20-24,24.41,1046,4462.0
+Opioids,Lifetime use of any pharmaceutical opioids,25-54,31.71,5649,16802.0
+Opioids,Lifetime use of any pharmaceutical opioids,55+,32.35,3992,12239.0
+Opioids,Lifetime use low-dose codeine for non-medical purposes,15-19,1.65,34,2265.0
+Opioids,Lifetime use low-dose codeine for non-medical purposes,15-19,0.45,11,2265.0
+Opioids,Lifetime use low-dose codeine for non-medical purposes,20-24,0.9,31,3646.0
+Opioids,Lifetime use low-dose codeine for non-medical purposes,20-24,0.7,23,3646.0
+Opioids,Lifetime use low-dose codeine for non-medical purposes,25-54,1.17,153,12425.0
+Opioids,Lifetime use low-dose codeine for non-medical purposes,25-54,0.58,83,12425.0
+Opioids,Lifetime use low-dose codeine for non-medical purposes,55+,1.45,128,9256.0
+Opioids,Lifetime use low-dose codeine for non-medical purposes,55+,0.36,34,9256.0
+Opioids,Past 12 month use of pharmaceutical opioids,15-19,8.59,214,2512.0
+Opioids,Past 12 month use of pharmaceutical opioids,20-24,11.13,476,4462.0
+Opioids,Past 12 month use of pharmaceutical opioids,25-54,12.39,2280,16802.0
+Opioids,Past 12 month use of pharmaceutical opioids,55+,15.94,1856,12239.0
+Opioids,Past 12 month use of pharmaceutical opioids (excluding low-dose codeine),15-19,6.18,162,2511.0
+Opioids,Past 12 month use of pharmaceutical opioids (excluding low-dose codeine),20-24,8.4,357,4462.0
+Opioids,Past 12 month use of pharmaceutical opioids (excluding low-dose codeine),25-54,8.85,1624,16802.0
+Opioids,Past 12 month use of pharmaceutical opioids (excluding low-dose codeine),55+,12.32,1382,12239.0
+Opioids,Past 12 month use of low-dose codeine,15-19,5.14,116,2505.0
+Opioids,Past 12 month use of low-dose codeine,20-24,5.45,230,4459.0
+Opioids,Past 12 month use of low-dose codeine,25-54,6.98,1277,16794.0
+Opioids,Past 12 month use of low-dose codeine,55+,8.53,1013,12224.0
+Opioids,Past 12 month use of other codeine products,15-19,3.88,98,2507.0
+Opioids,Past 12 month use of other codeine products,20-24,5.13,218,4458.0
+Opioids,Past 12 month use of other codeine products,25-54,4.9,916,16791.0
+Opioids,Past 12 month use of other codeine products,55+,7.05,776,12232.0
+Opioids,Past 12 month use of oxycodone,15-19,1.6,43,2505.0
+Opioids,Past 12 month use of oxycodone,20-24,2.2,91,4456.0
+Opioids,Past 12 month use of oxycodone,25-54,2.06,319,16799.0
+Opioids,Past 12 month use of oxycodone,55+,3.1,293,12234.0
+Opioids,Past 12 month use of prescription fentanyl,15-19,0.89,26,2509.0
+Opioids,Past 12 month use of prescription fentanyl,20-24,0.98,42,4460.0
+Opioids,Past 12 month use of prescription fentanyl,25-54,1.18,216,16801.0
+Opioids,Past 12 month use of prescription fentanyl,55+,1.01,136,12235.0
+Opioids,Past 12 month use of other opioids,15-19,2.39,64,2507.0
+Opioids,Past 12 month use of other opioids,20-24,3.99,174,4460.0
+Opioids,Past 12 month use of other opioids,25-54,4.77,891,16799.0
+Opioids,Past 12 month use of other opioids,55+,6.9,751,12233.0
+Opioids,Frequency of opioid use in past 12 months,15-19,71.12,134,194.0
+Opioids,Frequency of opioid use in past 12 months,15-19,13.42,28,194.0
+Opioids,Frequency of opioid use in past 12 months,15-19,12.2,22,194.0
+Opioids,Frequency of opioid use in past 12 months,15-19,3.25,10,194.0
+Opioids,Frequency of opioid use in past 12 months,20-24,74.55,322,436.0
+Opioids,Frequency of opioid use in past 12 months,20-24,13.64,63,436.0
+Opioids,Frequency of opioid use in past 12 months,20-24,5.87,24,436.0
+Opioids,Frequency of opioid use in past 12 months,20-24,5.94,27,436.0
+Opioids,Frequency of opioid use in past 12 months,25-54,71.37,1472,2081.0
+Opioids,Frequency of opioid use in past 12 months,25-54,9.42,195,2081.0
+Opioids,Frequency of opioid use in past 12 months,25-54,7.05,144,2081.0
+Opioids,Frequency of opioid use in past 12 months,25-54,12.17,270,2081.0
+Opioids,Frequency of opioid use in past 12 months,55+,56.34,1013,1722.0
+Opioids,Frequency of opioid use in past 12 months,55+,10.95,166,1722.0
+Opioids,Frequency of opioid use in past 12 months,55+,10.01,173,1722.0
+Opioids,Frequency of opioid use in past 12 months,55+,22.7,370,1722.0
+Opioids,Higher or more frequent dose of opioids than recommended,15-19,21.76,42,210.0
+Opioids,Higher or more frequent dose of opioids than recommended,20-24,13.96,67,475.0
+Opioids,Higher or more frequent dose of opioids than recommended,25-54,6.12,130,2276.0
+Opioids,Higher or more frequent dose of opioids than recommended,55+,4.37,73,1850.0
+Opioids,Higher dose of opioids than recommended,15-19,18.02,32,210.0
+Opioids,Higher dose of opioids than recommended,20-24,12.75,60,475.0
+Opioids,Higher dose of opioids than recommended,25-54,5.38,108,2276.0
+Opioids,Higher dose of opioids than recommended,55+,2.94,54,1851.0
+Opioids,More frequent dose of opioids than recommended,15-19,13.07,29,212.0
+Opioids,More frequent dose of opioids than recommended,20-24,9.01,43,475.0
+Opioids,More frequent dose of opioids than recommended,25-54,4.91,104,2277.0
+Opioids,More frequent dose of opioids than recommended,55+,3.42,54,1852.0
+Opioids,Opioid use for non-medical purposes,15-19,23.33,43,214.0
+Opioids,Opioid use for non-medical purposes,20-24,9.61,46,474.0
+Opioids,Opioid use for non-medical purposes,25-54,6.19,129,2278.0
+Opioids,Opioid use for non-medical purposes,55+,3.59,61,1850.0
+Opioids,Length of time using opioids for non-medical purposes,15-19,46.2,13,33.0
+Opioids,Length of time using opioids for non-medical purposes,15-19,39.82,16,33.0
+Opioids,Length of time using opioids for non-medical purposes,15-19,12.61,3,33.0
+Opioids,Length of time using opioids for non-medical purposes,15-19,1.37,1,33.0
+Opioids,Length of time using opioids for non-medical purposes,20-24,15.96,9,53.0
+Opioids,Length of time using opioids for non-medical purposes,20-24,38.47,19,53.0
+Opioids,Length of time using opioids for non-medical purposes,20-24,24.91,14,53.0
+Opioids,Length of time using opioids for non-medical purposes,20-24,17.56,9,53.0
+Opioids,Length of time using opioids for non-medical purposes,20-24,3.1,2,53.0
+Opioids,Length of time using opioids for non-medical purposes,25-54,13.09,20,144.0
+Opioids,Length of time using opioids for non-medical purposes,25-54,25.58,34,144.0
+Opioids,Length of time using opioids for non-medical purposes,25-54,17.92,29,144.0
+Opioids,Length of time using opioids for non-medical purposes,25-54,22.67,32,144.0
+Opioids,Length of time using opioids for non-medical purposes,25-54,20.73,29,144.0
+Opioids,Length of time using opioids for non-medical purposes,55+,16.93,11,64.0
+Opioids,Length of time using opioids for non-medical purposes,55+,19.44,17,64.0
+Opioids,Length of time using opioids for non-medical purposes,55+,15.94,6,64.0
+Opioids,Length of time using opioids for non-medical purposes,55+,5.17,4,64.0
+Opioids,Length of time using opioids for non-medical purposes,55+,42.52,26,64.0
+Opioids,Age of starting use of low-dose codeine for non-medical purposes,15-19,100.0,45,45.0
+Opioids,Age of starting use of low-dose codeine for non-medical purposes,20-24,100.0,54,54.0
+Opioids,Age of starting use of low-dose codeine for non-medical purposes,25-54,58.58,138,236.0
+Opioids,Age of starting use of low-dose codeine for non-medical purposes,25-54,41.42,98,236.0
+Opioids,Age of starting use of low-dose codeine for non-medical purposes,55+,42.75,76,162.0
+Opioids,Age of starting use of low-dose codeine for non-medical purposes,55+,57.25,86,162.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,15-19,66.49,25,39.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,15-19,6.3,4,39.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,15-19,21.86,8,39.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,15-19,5.34,2,39.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,20-24,45.89,21,44.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,20-24,28.75,11,44.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,20-24,11.51,6,44.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,20-24,13.84,6,44.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,25-54,42.78,52,117.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,25-54,12.49,11,117.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,25-54,20.28,24,117.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,25-54,24.46,30,117.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,55+,31.68,15,56.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,55+,18.84,13,56.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,55+,24.19,15,56.0
+Opioids,Frequency of opioid use for non-medical purposes in past 12 months,55+,25.3,13,56.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,20-24,60.93,19,30.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,20-24,15.52,4,30.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,20-24,17.72,5,30.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,20-24,5.83,2,30.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,25-54,46.02,69,143.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,25-54,14.54,19,143.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,25-54,20.12,27,143.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,25-54,19.32,28,143.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,55+,43.14,60,121.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,55+,17.78,17,121.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,55+,16.11,21,121.0
+Opioids,Frequency of low-dose codeine use for non-medical purposes in past 12 months,55+,22.97,23,121.0
+Opioids,Tamper with opioids,15-19,43.39,18,42.0
+Opioids,Tamper with opioids,20-24,27.18,13,46.0
+Opioids,Tamper with opioids,25-54,21.72,30,127.0
+Opioids,Tamper with opioids,55+,10.94,8,61.0
+Opioids,Lifetime tamper with low-dose codeine,15-19,33.16,12,43.0
+Opioids,Lifetime tamper with low-dose codeine,15-19,3.89,5,43.0
+Opioids,Lifetime tamper with low-dose codeine,20-24,12.87,7,54.0
+Opioids,Lifetime tamper with low-dose codeine,20-24,27.23,13,54.0
+Opioids,Lifetime tamper with low-dose codeine,25-54,3.5,12,235.0
+Opioids,Lifetime tamper with low-dose codeine,25-54,11.91,31,235.0
+Opioids,Lifetime tamper with low-dose codeine,55+,3.04,8,161.0
+Opioids,Lifetime tamper with low-dose codeine,55+,0.67,2,161.0
+Opioids,Source of opioids used,15-19,24.15,11,40.0
+Opioids,Source of opioids used,15-19,13.02,4,40.0
+Opioids,Source of opioids used,15-19,62.82,25,40.0
+Opioids,Source of opioids used,20-24,21.59,9,45.0
+Opioids,Source of opioids used,20-24,27.92,13,45.0
+Opioids,Source of opioids used,20-24,50.49,23,45.0
+Opioids,Source of opioids used,25-54,36.14,49,125.0
+Opioids,Source of opioids used,25-54,34.71,34,125.0
+Opioids,Source of opioids used,25-54,29.15,42,125.0
+Opioids,Source of opioids used,55+,66.21,41,61.0
+Opioids,Source of opioids used,55+,10.57,7,61.0
+Opioids,Source of opioids used,55+,23.21,13,61.0
+Opioids,Source of non-prescribed opioids,25-54,65.46,44,66.0
+Opioids,Source of non-prescribed opioids,25-54,26.55,17,66.0
+Opioids,Source of non-prescribed opioids,25-54,7.99,5,66.0
+Opioids,Giving away prescribed opioids,25-54,11.28,9,82.0
+Opioids,Giving away prescribed opioids,55+,6.93,2,48.0
+Opioids,Selling prescribed opioids,25-54,5.69,5,82.0
+Opioids,"Persuading doctor, forging prescription or double doctoring to obtain opioids",25-54,1.22,1,83.0
+Opioids,"Persuading doctor, forging prescription or double doctoring to obtain opioids",55+,4.19,1,48.0
