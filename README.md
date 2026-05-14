@@ -2,6 +2,7 @@
 
 ## Live Dashboard
 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/madina.alizada/viz/Book1_17787142620000/Dashboard1)
+
 ![Dashboard Preview](docs/dashboard-preview.png)
 ## What is this project?
 This project explores how alcohol, cannabis, and opioid use 
