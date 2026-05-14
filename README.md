@@ -1,5 +1,8 @@
 # Canada Substance Use Dashboard
 
+## Live Dashboard
+[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/madina.alizada/viz/Book1_17787142620000/Dashboard1)
+
 ## What is this project?
 This project explores how alcohol, cannabis, and opioid use 
 varies across different age groups in Canada, using real 
@@ -16,8 +19,10 @@ Canadian Substance Use Survey (CSUS) from Health Canada
 health-infobase.canada.ca/substance-use/csus
 
 ## Tools Used
-- SQL for data cleaning and preparation
-- Tableau for visualization and dashboard building
+- Python (pandas) for data cleaning and preparation
+- Jupyter Notebook for documented data pipeline
+- Tableau Public for visualization and dashboard building
+- GitHub for version control and project storage
 
 ## Project Structure
 - data/ — raw CSV files from Health Canada
