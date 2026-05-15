@@ -27,9 +27,9 @@ health-infobase.canada.ca/substance-use/csus
 - GitHub for version control and project storage
 
 ## Project Structure
-- data/ — raw CSV files from Health Canada and clean master dataset
-- scripts/ — Jupyter Notebook with full documented data pipeline
-- docs/ — project documentation, mockup, and writeup
+- data/ - raw CSV files from Health Canada and clean master dataset
+- scripts/ - Jupyter Notebook with full documented data pipeline
+- docs/ - project documentation, mockup, and writeup
 
 ## Full Documentation
 [Read the full non-technical project documentation](docs/project-documentation.md)
