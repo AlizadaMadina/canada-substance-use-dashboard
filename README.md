@@ -18,7 +18,7 @@ Substance use has become so normalized in our society that people are forgetting
 
 ## Data Source
 Canadian Substance Use Survey (CSUS) 2023 from Health Canada
-health-infobase.canada.ca/substance-use/csus
+[health-infobase.canada.ca/substance-use/csus](https://health-infobase.canada.ca/substance-use/csus/)
 
 ## Tools Used
 - Python (pandas) for data cleaning and preparation
