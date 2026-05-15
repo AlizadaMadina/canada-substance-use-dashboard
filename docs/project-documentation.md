@@ -25,7 +25,7 @@ The short answer is yes, and the patterns are more surprising than most people w
 
 ## Where the Data Came From
 
-The data comes from Health Canada's official website at health-infobase.canada.ca/substance-use/csus. This is a survey that Health Canada runs every two years to understand trends in alcohol and drug use across the Canadian population. It is one of the most comprehensive public health datasets available in Canada.
+The data comes from Health Canada's official website at [health-infobase.canada.ca/substance-use/csus](https://health-infobase.canada.ca/substance-use/csus/). This is a survey that Health Canada runs every two years to understand trends in alcohol and drug use across the Canadian population. It is one of the most comprehensive public health datasets available in Canada.
 
 I downloaded 3 CSV files covering alcohol, cannabis, and opioids. Each file contained hundreds of rows breaking down substance use by age group, province, gender, income level, and many other categories. In total, the raw data covered 97 different indicators or survey questions across all three substances.
 
@@ -147,7 +147,7 @@ If even one person looks at this dashboard and thinks differently about substanc
 
 ---
 
-*Data Source: Canadian Substance Use Survey (CSUS) 2023, Health Canada. health-infobase.canada.ca/substance-use/csus*
+*Data Source: Canadian Substance Use Survey (CSUS) 2023, Health Canada. [health-infobase.canada.ca/substance-use/csus](https://health-infobase.canada.ca/substance-use/csus/)*
 
 *Live Dashboard: https://public.tableau.com/app/profile/madina.alizada/viz/Book1_17787142620000/Dashboard1*
 
